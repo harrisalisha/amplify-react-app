@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          HELLO...This is my Fist React Amplify App
         </a>
       </header>
     </div>
